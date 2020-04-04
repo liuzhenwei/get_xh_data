@@ -1,0 +1,23 @@
+{
+  "name": "xh_dict",
+  "version": "0.0.1",
+  "description": "xh_dict",
+  "keywords": [
+    "dict",
+    "api"
+  ],
+  "author": "liuzhenwei",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-transform-async-to-generator": "latest",
+    "babel-plugin-transform-class-properties": "latest",
+    "babel-polyfill": "latest",
+    "babel-preset-env": "latest",
+    "babel-preset-stage-0": "latest",
+    "babel-register": "latest",
+    "cheerio": "latest",
+    "request": "latest",
+    "request-promise": "latest",
+    "needle": "latest"
+  }
+}
